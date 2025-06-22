@@ -86,5 +86,5 @@ This helps uncover which user groups are most active, which transaction types do
 ## 📬 Contact
 
 **Project by:** Aryan Patil
-**GitHub:** \https://github.com/AryanPatil0325/
-**Email:** \patilavs03@gmail.com
+**GitHub:** https://github.com/AryanPatil0325/
+**Email:** patilavs03@gmail.com
